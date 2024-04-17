@@ -1,4 +1,4 @@
-keras와 pytorch로 MNIST 데이터를 분류하는 모델 개발
+# keras와 pytorch로 MNIST 데이터를 분류하는 모델 개발
 
 1. Keras
 - TensorFlow 및 Theano와 같은 백엔드 엔진 위에 구축
